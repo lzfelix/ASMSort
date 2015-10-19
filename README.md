@@ -6,7 +6,7 @@ This is an Assambly 8086 inline implementation of Bubble Sort on C. I wrote this
 
 To compile this rare piece of work you will need:
  * __DOSBox__: different versions for a plenty of OSs can be obtained at http://www.dosbox.com/
- * Turbo C++ 3.0: can be free downloaded at http://borlandc.org/download-turbo-c-3-0-for-windows-7-windows-8-and-windows-xp/ 
+ * __Turbo C++ 3.0__: can be free downloaded at http://borlandc.org/download-turbo-c-3-0-for-windows-7-windows-8-and-windows-xp/ 
  
  [last visit on 25/06/2015]
  
